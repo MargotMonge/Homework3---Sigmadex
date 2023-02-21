@@ -6,4 +6,5 @@ To give you more concrete useful cases, Sigmadex is exploiting NFTs in quite a d
 Besides, Sigmadex opens up to new datasets because of its use of game theory and core Sigmadex DeFi, which brings new insights that could help make better automatic trading decisions. For instance, you can access heat map to interpret the overall health of a specific asset.
 Furthermore, if you wish to become a liquidity provider, Sigmadex could be of interest as it offers in exchange of your liquidity further advantages than just transaction fees. Such can include time locked rewards and bonding rewards.
 
+4. Conclude with some thoughts on your experience of collaborating on Github (what works well, challenges, learnings)
 
